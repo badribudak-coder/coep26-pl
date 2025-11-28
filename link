@@ -1,0 +1,29 @@
+ex1
+
+curl -X POST http://localhost:8080/students -H "Content-Type: application/json" -d "{\"id\":23141005,\"name\":\"Sujal Pawar\",\"email\":\"sujalpawar237@gmail.com\",\"course\":\"Information Technology\"}"
+
+ex5 and 6
+https://filebin.net/6zqco3n0h8rczyc4
+ex7 and 8
+https://filebin.net/45yrf9co31a5xh5q
+ex9 and 10
+https://filebin.net/pek6ywc32txm62r0
+ex11
+https://filebin.net/3zsbosrdsqwwk259
+
+ex1
+https://filebin.net/udjq1kac7gw3ytkz
+ex5
+https://filebin.net/zb9pbwsfn7r3w5by
+ex6
+https://filebin.net/c3vprxzzph83nbem
+ex7
+https://filebin.net/lk8dgr66wmycjlmv
+ex8
+https://filebin.net/h548c9umuixnvomd
+ex9
+https://filebin.net/wwm3h3koxexeeov2
+ex10
+https://filebin.net/iveieyjlhprzrmo3
+ex11
+https://filebin.net/221it2i135tnk64b
